@@ -13,7 +13,7 @@
 """
 
 from GUI import GUI
-from Maze import Maze
+from Maze_logic import Maze
 
 if __name__ == "__main__":
     root = GUI()
