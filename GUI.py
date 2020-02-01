@@ -5,7 +5,7 @@
 
 import tkinter as tk
 from PIL import ImageTk,Image
-from Maze import Maze
+from Maze_logic import Maze
 class GUI():
     def __init__(self):
         self.width = 400
